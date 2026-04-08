@@ -19,10 +19,10 @@ website:
         href: index.qmd
       - text: "Call for presentations"
         href: call_for_presentations.qmd
-    right:
+     right:
       - icon: github
         href: https://github.com/Research-Software-Africa/research-software-africa-org
-   right:
+    right:
       - icon: LinkedIn
         href: https://www.linkedin.com/company/rsafrica
 
